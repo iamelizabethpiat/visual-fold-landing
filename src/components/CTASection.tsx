@@ -11,7 +11,7 @@ const CTASection = () => {
     <section className="py-32 md:py-40 bg-background">
       <div className="container mx-auto px-6 text-center">
         <h2 
-          className="font-display text-4xl md:text-5xl lg:text-6xl font-medium text-foreground mb-12 tracking-tight"
+          className="font-display text-4xl md:text-5xl lg:text-6xl font-medium text-grayish-blue mb-12 tracking-tight"
         >
           ¿Creamos juntos?
         </h2>
