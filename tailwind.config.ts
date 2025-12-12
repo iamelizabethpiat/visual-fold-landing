@@ -65,6 +65,7 @@ export default {
         "soft-gray": "hsl(var(--soft-gray))",
         "warm-white": "hsl(var(--warm-white))",
         "deep-charcoal": "hsl(var(--deep-charcoal))",
+        "cta-blue": "hsl(var(--cta-blue))",
       },
       borderRadius: {
         lg: "var(--radius)",
